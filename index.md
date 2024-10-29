@@ -26,3 +26,9 @@ $ cd markdown
 ```javascript
 var myVar = "Hello World!"
 ```
+
+
+
+- [x] Create a Pull Request
+- [x] Edit the index file created
+- [ ] If file is not edited, task will not be completed. 
